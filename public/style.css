@@ -1,0 +1,19 @@
+/* Add your styles here */
+html, body {
+	width: 100%;
+	text-align: center;
+}
+
+#box img {
+	display: block;
+	margin: 0 auto;
+}
+
+#add_part {
+	width: 50%;
+	margin: 0 auto;
+}
+
+ul li {
+	list-style: none;
+}
